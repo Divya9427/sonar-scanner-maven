@@ -6,8 +6,6 @@
     <version>52</version>
     <relativePath />
   </parent>
-
-
 	
   <groupId>org.sonarsource.scanner.maven</groupId>
   <artifactId>sonar-maven-plugin</artifactId>
@@ -184,13 +182,6 @@
       <version>3.3.0</version>
       <scope>test</scope>
     </dependency>
-	   <dependency>
-	  <groupId>com.mycompany.app</groupId>
-  <artifactId>my-app</artifactId>
-  <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
-  <name>my-app</name>
-	   </dependency>
     <dependency>
       <groupId>org.mortbay.jetty</groupId>
       <artifactId>jetty</artifactId>
