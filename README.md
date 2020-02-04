@@ -1,4 +1,4 @@
-#testing 
+#testing for nexus configuration
 
 SonarQube Scanner for Maven
 ===========================
